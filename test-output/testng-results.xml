@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24866" started-at="2019-10-23T16:13:07Z" finished-at="2019-10-23T16:13:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24866" started-at="2019-10-23T16:13:07Z" finished-at="2019-10-23T16:13:32Z">
+      <class name="com.mercurytours.test.TestNGdriver">
+        <test-method status="PASS" signature="browserapplaunch()[pri:0, instance:com.mercurytours.test.TestNGdriver@174d20a]" name="browserapplaunch" is-config="true" duration-ms="9554" started-at="2019-10-23T21:43:07Z" finished-at="2019-10-23T21:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserapplaunch -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:0, instance:com.mercurytours.test.TestNGdriver@174d20a]" name="verifyValidLogin" duration-ms="14954" started-at="2019-10-23T21:43:17Z" finished-at="2019-10-23T21:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:com.mercurytours.test.TestNGdriver@174d20a]" name="appclose" is-config="true" duration-ms="339" started-at="2019-10-23T21:43:32Z" finished-at="2019-10-23T21:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+      </class> <!-- com.mercurytours.test.TestNGdriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
